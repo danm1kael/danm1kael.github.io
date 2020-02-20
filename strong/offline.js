@@ -1,0 +1,33 @@
+﻿{
+	"version": 1582182057,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/chao-sheet0.png",
+		"images/personagem-sheet0.png",
+		"images/personagem-sheet1.png",
+		"images/paredeinvisível-sheet0.png",
+		"images/inimigo-sheet0.png",
+		"images/inimigo-sheet1.png",
+		"images/marcador-sheet0.png",
+		"images/chãoflutuante-sheet0.png",
+		"images/caixacolisao-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/itensfundo-sheet0.png",
+		"images/itensfundo-sheet1.png",
+		"images/itensfundo-sheet2.png",
+		"images/itensfundo-sheet3.png",
+		"images/itensfundo-sheet4.png",
+		"images/itensfundo-sheet5.png",
+		"images/itensfundo-sheet6.png",
+		"images/itensfundo-sheet7.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
